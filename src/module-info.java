@@ -1,0 +1,2 @@
+module Compression_Huffman {
+}
